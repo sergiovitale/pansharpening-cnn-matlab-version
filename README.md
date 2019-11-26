@@ -65,5 +65,5 @@ terms of the license, as specified in the document LICENSE.txt
 
 	    a) PNN+ with fine tuning (50 iterations): 	“img<sample>_PNNplus.mat”
 	    b) PNN+ without fintuning: 			“img<sample>_PNNplus_noFT.mat”
-	    c) PNN with additional input bands: 		“img<sample>_PNN.mat”
+	    c) PNN with additional input bands: 	“img<sample>_PNN.mat”
 	    c) PNN without additional input bands: 	“img<sample>_PNN_noIDX.mat”
