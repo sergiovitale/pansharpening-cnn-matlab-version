@@ -39,8 +39,8 @@ qMS=image_quantile(I_MS_LR(:,:,RGB_indexes),[0.01 0.99]);
 qPAN=image_quantile(I_PAN,[0.01,0.99]);
 
 figure();
-ax(1)=subplot(241); imshow(image_stretch(I_PAN,qPAN)); title('PAN');
-ax(2)=subplot(242); imshow(image_stretch(interp23tap(I_MS_LR(:,:,RGB_indexes),4.0),qMS));title('MS');
+ax(1)=subplot(242); imshow(image_stretch(I_PAN,qPAN)); title('PAN');
+ax(2)=subplot(243); imshow(image_stretch(interp23tap(I_MS_LR(:,:,RGB_indexes),4.0),qMS));title('MS');
 ax(3)=subplot(245); imshow(image_stretch(P1(:,:,RGB_indexes),qMS));title('PNN+ 50');
 ax(4)=subplot(246); imshow(image_stretch(P2(:,:,RGB_indexes),qMS));title('PNN+ 0');
 ax(5)=subplot(247); imshow(image_stretch(P3(:,:,RGB_indexes),qMS));title('PNN');
