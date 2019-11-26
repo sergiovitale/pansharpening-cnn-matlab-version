@@ -22,7 +22,7 @@ terms of the license, as specified in the document LICENSE.txt
         The running on previous Matlab versions is not guaranteed.
         
 
-# MATLAB package for the following pansharpening algorithms:
+# MATLAB packages for :
     a) PNN  [Masi et al. (2016)] 
     b) PNN+ [Scarpa et al. (2018)]
 
