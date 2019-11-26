@@ -1,12 +1,12 @@
 # pansharpening-cnn-matlab-version
-This the matlab implementation of the paper [Target-adaptive CNN-based pansharpening](https://ieeexplore.ieee.org/document/8334206).
-This is an advanced version of pansharpening method [PNN](http://www.mdpi.com/2072-4292/8/7/594) with residual learning, different loss and a target-adaptive phase. 
+This the matlab implementation of the paper [Target-adaptive CNN-based pansharpening](https://ieeexplore.ieee.org/document/8334206), an advanced version of pansharpening method [PNN](http://www.mdpi.com/2072-4292/8/7/594) with residual learning, different loss and a target-adaptive phase. 
 
 # Team members
  Giuseppe Scarpa  (giscarpa@.unina.it);
  Sergio Vitale    (contact person, sergio.vitale@uniparthenope.it);
  Davide Cozzolino (davide.cozzolino@unina.it).
- 
+ Some basic Git commands are:
+
  
 # License
 Copyright (c) 2018 Image Processing Research Group of University Federico II of Naples ('GRIP-UNINA').
@@ -46,13 +46,11 @@ terms of the license, as specified in the document LICENSE.txt
 
   How to install:
   
-          Add folder path to your Matlab environment and go:
-          
-          
+  Add folder path to your Matlab environment and go:
+  
           addpath('<folder location on your pc>/PNNplus_Matlab_code/');
-          ```
-
-   Execution Environment:
+  
+  Execution Environment:
    
         The code runs on GPU when available or on CPU, otherwise.
         
