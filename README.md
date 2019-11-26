@@ -5,7 +5,7 @@ This the matlab implementation of the paper [Target-adaptive CNN-based pansharpe
  Giuseppe Scarpa  (giscarpa@.unina.it);
  Sergio Vitale    (contact person, sergio.vitale@uniparthenope.it);
  Davide Cozzolino (davide.cozzolino@unina.it).
- Some basic Git commands are:
+ 
 
  
 # License
