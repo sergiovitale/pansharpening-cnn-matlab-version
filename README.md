@@ -39,7 +39,7 @@ terms of the license, as specified in the document LICENSE.txt
 
    
 
-# USAGE:
+# Usage:
   Main functions to call:
   
         `PNN` and `PNNplus`
