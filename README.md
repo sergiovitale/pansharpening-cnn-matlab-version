@@ -48,7 +48,7 @@ terms of the license, as specified in the document LICENSE.txt
   
           Add folder path to your Matlab environment and go:
           
-          ```
+          
           addpath('<folder location on your pc>/PNNplus_Matlab_code/');
           ```
 
