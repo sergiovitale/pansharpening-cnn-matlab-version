@@ -1,5 +1,7 @@
 # pansharpening-cnn-matlab-version
-This the matlab implementation of the paper [Target-adaptive CNN-based pansharpening](https://ieeexplore.ieee.org/document/8334206), an advanced version of pansharpening method [PNN](http://www.mdpi.com/2072-4292/8/7/594) with residual learning, different loss and a target-adaptive phase. 
+[Target-adaptive CNN-based pansharpening](https://ieeexplore.ieee.org/document/8334206) is an advanced version of pansharpening method [PNN](http://www.mdpi.com/2072-4292/8/7/594) with residual learning, different loss and a target-adaptive phase. 
+
+This the matlab version of the code, [Go to Python version](https://github.com/sergiovitale/pansharpening-cnn-python-version) for the python version.
 
 # Team members
  Giuseppe Scarpa  (giscarpa@.unina.it);
